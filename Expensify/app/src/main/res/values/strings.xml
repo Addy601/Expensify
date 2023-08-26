@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Expensify</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer></string>
+    <string name="login_title">Login</string>
+    <string name="email">Email</string>
+    <string name="ed1">Enter Email</string>
+    <string name="login_form_password">Password</string>
+    <string name="ed2">Enter Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forget_pass">FORGOT PASSWORD</string>
+    <string name="slash">/</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="registration_title">Registration</string>
+    <string name="signin_here">ALREADY HAVE ACCOUNT? SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="back_to_login">BACK TO LOGIN</string>
+    <string name="username_error">username_error</string>
+    <string name="error_invalid_Userame">error_invalid_Userame</string>
+    <string name="password_error">password_error</string>
+    <string name="error_invalid_password">error_invalid_password</string>
+</resources>
